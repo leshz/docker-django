@@ -1,6 +1,6 @@
 # Docker File para Django 3
 
-Imagen para  creacion de projectos en djando 3
+Imagen para  creacion de proyectos en djando 3
 
 *Sigue en desarrollo*
 Ejemplo de docker-compose
