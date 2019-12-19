@@ -1,9 +1,9 @@
-# docker File para Django 3 
+# Docker File para Django 3
 
 Imagen para  creacion de projectos en djando 3
 
-**Sigue en desarrollo**
-
+*Sigue en desarrollo*
+Ejemplo de docker-compose
 ```yml
 version: '3'
 
